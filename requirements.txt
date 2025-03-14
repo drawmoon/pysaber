@@ -1,0 +1,5 @@
+logfire
+pydantic
+polars
+pyiter
+networkx
