@@ -13,15 +13,9 @@ The features include:
 - Fetch interception and database behavior logging capabilities
 - Support for
   - MySQL
-  - MariaDB
   - PostgreSQL
-  - GreenPlum
-  - GaussDB
-  - Oracle
-  - Dameng
-  - MSSQL
 
-For function syntax in Saber, [see this](./docs/functions_in_saber.md).
+The syntax of filters in pysaber is similar to MongoDB, see [MongoDB Aggregation Operators](https://www.mongodb.com/zh-cn/docs/manual/reference/operator/aggregation/).
 
 ## introduction
 
